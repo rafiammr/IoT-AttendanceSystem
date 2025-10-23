@@ -1,0 +1,25 @@
+# ==== ARDUINO / ESP8266 / IOT ====
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+build/
+.pio/
+.cache/
+.vscode/
+.idea/
+
+# ==== WEB PROJECT (PHP, HTML, JS) ====
+vendor/
+.env
+config.php
+*.sql
+*.db
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+composer.lock
